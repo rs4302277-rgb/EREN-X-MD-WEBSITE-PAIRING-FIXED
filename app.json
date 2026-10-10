@@ -1,0 +1,17 @@
+{
+  "name": "EREN X MD",
+  "description": "WhatsApp MD bot with website-based pairing",
+  "repository": "",
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "node"
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "env": {}
+}
